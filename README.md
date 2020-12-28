@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Abderrahim Belcaid
 #### I am Full stack Developer | Student at YouCode
 
-![Profile views](https://gpvc.arturio.dev/ABelcaid) 
-<a href=”https://twitter.com/your_twitter_username_here"><img src=”https://img.shields.io/twitter/follow/BelcaidAb?label=Follow&style=social"></a>
+![Profile views](https://gpvc.arturio.dev/ABelcaid) <a href="https://github.com/ABelcaid"><img src="https://img.shields.io/github/followers/ABelcaid?label=Follow&style=social"></a> <a href="https://twitter.com/BelcaidAb"><img src="https://img.shields.io/twitter/follow/BelcaidAb?style=social"></a>
 
 **Languages and Tools:**  
 
